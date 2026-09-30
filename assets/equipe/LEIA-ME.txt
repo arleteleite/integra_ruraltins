@@ -1,0 +1,3 @@
+﻿Esta pasta guarda as fotos ORIGINAIS da equipe (nao precisa subir para o GitHub).
+A pagina usa as versoes reduzidas que ficam em assets\fotos\ (gilberto.jpg, rafael.jpg, arlete.jpg, kalew.jpg, gi.jpg, risia.jpg), quadradas, 600x600 px.
+Para trocar uma foto: gere um jpg quadrado (rosto no centro, ate ~100 KB) e substitua o arquivo de mesmo nome em assets\fotos\.
